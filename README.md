@@ -4,5 +4,5 @@
   <img src="./images/portfolio.jpg" width="100%">
 </h2>
 
-### Para visualizar acesse https://marcelaportfolio.vercel.app/
+### Para visualizar acesse https://marcelaportfolio.vercel.app
 
